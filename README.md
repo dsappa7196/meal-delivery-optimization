@@ -86,14 +86,14 @@ Minimize ∑ (Xᵢⱼ × tᵢⱼ) + Penalty Time
 
 ---
 
-## 📂 Files Included
+## 📁 Files Included
 
-| File Name                         | Description                                      |
-|----------------------------------|--------------------------------------------------|
-| `Meal_Delivery_Model.xlsx`       | Core optimization model (Solver + Macros)        |
-| `Meal_Delivery_Report.docx`      | Full documentation of methods and findings       |
-| `Meal_Delivery_Deck.pptx`        | Presentation slides for project walkthrough      |
-| `README.md`                      | This file — public-facing project summary        |
+| File Name | Description |
+|-----------|-------------|
+| [📊 Meal_Delivery_Model.xlsx](https://github.com/dsappa7196/meal-delivery-optimization/blob/main/DS852_MDOM_SolverModel.xlsm) | Core optimization model (Solver + Macros) |
+| [📝 Meal_Delivery_Report.docx](https://github.com/dsappa7196/meal-delivery-optimization/blob/main/DS852_MDOM_SolverModel.pdf) | Full documentation of methods and findings |
+| [📽️ Meal_Delivery_Deck.pptx](https://github.com/dsappa7196/meal-delivery-optimization/blob/main/DS852_MDOM_SolverModel.pptx) | Presentation slides for project walkthrough |
+| [📘 README.md](./README.md) | This file — public-facing project summary |
 
 ---
 
